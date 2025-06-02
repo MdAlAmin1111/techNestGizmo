@@ -1,3 +1,4 @@
+import Header from "./Components/Header/Header"
 
 
 function App() {
@@ -5,9 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>techNest Gizmo</h1>
-      <p>This is the starting of the project</p>
-
+        <Header></Header>
     </>
   )
 }
