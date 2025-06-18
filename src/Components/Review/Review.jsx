@@ -2,7 +2,7 @@ import React from 'react';
 
 const Review = () => {
     return (
-        <div className='max-w-[1280px] mx-auto px-10 bg-gray-200 py-10 text-center'>
+        <div className='max-w-[1280px] mx-auto px-5 md:px-10 bg-gray-200 py-10 text-center'>
             <div className='bg-gray-50 rounded-[8px] py-5'>
                 <div className="rating">
                     <div className="mask mask-star bg-orange-400" aria-label="1 star"></div>
