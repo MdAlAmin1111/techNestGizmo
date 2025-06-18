@@ -5,7 +5,7 @@ import { NavLink } from 'react-router';
 
 const Navbar = () => {
     return (
-        <div className='flex justify-between max-w-[1280px] mx-auto px-10 bg-gray-50 py-4 rounded-[2px] border-b-[1px] border-[#812c3060] text-[#155e75]'>
+        <div className='flex justify-between max-w-[1280px] mx-auto px-10 bg-gray-50 py-4 rounded-[2px] border-b-[1px] border-[#00000040] text-[#155e75]'>
             {/* for logo */}
             <div >
                 <img width={160} src={logo} alt="" />
